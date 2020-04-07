@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Techy_Subhadip</string>
+    <string name="tv1"><a href="http://youtube.com/TechySubhadip">1. Subscribe my Youtube Channel</a></string>
+    <string name="tv2"><a href="https://www.youtube.com/playlist?list=PLeMY8ueAvM-1MRNJU1TvcyOM-yl0XtVGu">2. MAR Special Videos-Cooking</a></string>
+    <string name="tv3"><a href="https://tinyurl.com/wellwisherkgec">3. Fb Social Awareness Group</a></string>
+    <string name="tv4"><a href="https://techysubhadip.blogspot.com">4. Blog page - Poems and Technical Writings</a></string>
+    <string name="tv5"><a href="https://github.com/Subhadip1">5. My Github Page</a></string>
+    <string name="tv6"><a href="https://tinyurl.com/technical-writing">6. Technical Article Link</a></string>
+    <string name="tv7"><a href="facebook.com/TechySubhadip">7. Follow My Channel Fb Page</a></string>
+    <string name="tv8"><a href="http://subhadip.rf.gd"> 8. Channel Website</a></string>
+    <string name="tv9"><a href="https://tinyurl.com/codes-subhadip">9. Download Codes of App Development</a></string>
+    <string name="tv10"><a href="https://tinyurl.com/codes-subhadip">10. Download Codes of Web Development</a></string>
+    <string name="tv11"><a href="https://tinyurl.com/loginapk">Download the app from here</a></string>
+</resources>
+
+
